@@ -1,5 +1,8 @@
-# 👋 Hola, soy Kevin Mejía
+# 👋 Soy Kevin Mejía, Ingeniero en Sistemas y desarrollador nicaragüense apasionado por crear soluciones tecnológicas con impacto social real. Desde Bilwi, lidero proyectos que combinan inteligencia artificial, accesibilidad, salud digital y educación inclusiva. He desarrollado desde apps móviles para el MINSA hasta plataformas predictivas de enfermedades con IA y bastones inteligentes para personas ciegas.
 
+Me motiva la tecnología que transforma vidas, especialmente en contextos vulnerables. Como docente, mentor de Hackathon Nicaragua y ponente en eventos nacionales, también impulso el aprendizaje práctico en nuevas generaciones.
+
+🚀 Flutter | Firebase | Python | Raspberry Pi | IA aplicada | Educación tecnológica
 🎓 Ingeniero en Sistemas | 💡 Apasionado por la tecnología, IA y desarrollo social desde Bilwi.
 
 ## 🚀 Proyectos Destacados
